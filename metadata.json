@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Safe City - Intelligent Safety System",
+  "description": "Advanced violence and weapon detection system using Multimodal AI for Smart City environments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
